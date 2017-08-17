@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33" started-at="2017-08-17T21:46:40Z" finished-at="2017-08-17T21:46:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33" started-at="2017-08-17T21:46:40Z" finished-at="2017-08-17T21:46:40Z">
+      <class name="com.maverick.test.StudentTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.maverick.test.StudentTest@13afe78]" name="setUp" is-config="true" duration-ms="11" started-at="2017-08-17T16:46:40Z" finished-at="2017-08-17T16:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAgregar()[pri:0, instance:com.maverick.test.StudentTest@13afe78]" name="testAgregar" duration-ms="7" started-at="2017-08-17T16:46:40Z" finished-at="2017-08-17T16:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAgregar -->
+        <test-method status="PASS" signature="testEditar()[pri:0, instance:com.maverick.test.StudentTest@13afe78]" name="testEditar" duration-ms="0" started-at="2017-08-17T16:46:40Z" finished-at="2017-08-17T16:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEditar -->
+        <test-method status="PASS" signature="testEliminar()[pri:0, instance:com.maverick.test.StudentTest@13afe78]" name="testEliminar" duration-ms="1" started-at="2017-08-17T16:46:40Z" finished-at="2017-08-17T16:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEliminar -->
+        <test-method status="PASS" signature="testListar()[pri:0, instance:com.maverick.test.StudentTest@13afe78]" name="testListar" duration-ms="1" started-at="2017-08-17T16:46:40Z" finished-at="2017-08-17T16:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testListar -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.maverick.test.StudentTest@13afe78]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-08-17T16:46:40Z" finished-at="2017-08-17T16:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.maverick.test.StudentTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
